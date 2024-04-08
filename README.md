@@ -3,8 +3,9 @@ You can reach me on discord at `jewels86`, over email at `jewels286@proton.me`, 
 Fun fact: I like naming my projects after gemstones
 
 Projects I'm working on:
-- Topaz: A dashboard/workspace site to manage everything in one place.
-- Tourmaline: A fast web spider.
-- Aquamarine: A HTTP/HTTPS request automator.
+- Topaz: A dashboard/workspace site to manage everything in one place. (1%, started)
+- Azotic Topaz: Topaz, but as a dasktop application. (1%)
+- Tourmaline: A fast web spider. (50%, Spider + GUI done)
+- Aquamarine: A HTTP/HTTPS request automator. (0%, haven't started)
 
-I have a group named the Gold Team (name in progress) who does development and white hat hacking. You can contact me to join!
+I have a group named the Gold Team (name in progress) and we do development and white hat hacking. You can contact me to join!
