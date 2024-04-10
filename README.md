@@ -5,7 +5,7 @@ Fun fact: I like naming my projects after gemstones
 Projects I'm working on:
 - Topaz: A dashboard/workspace site to manage everything in one place. (1%, started)
 - Azotic Topaz: Topaz, but as a dasktop application. (1%)
-- Tourmaline: A directory enumeration tool many modes. (50%)
+- Tourmaline: A directory enumeration tool with many modes. (90%)
 - Aquamarine: A HTTP/HTTPS request automator. (0%)
 
 I have a group named the Gold Team (name in progress) and we do development and white hat hacking. You can contact me to join!
